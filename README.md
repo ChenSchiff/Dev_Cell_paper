@@ -1,6 +1,6 @@
 # Code for "Coordination between endoderm progression and mouse gastruloid elongation controls endodermal morphotype choice"
 
-This repository contains the Python code used for the analysis presented in the Developmental Cell paper: **"Coordination between endoderm progression and mouse gastruloid elongation controls endodermal morphotype choice"**(https://www.cell.com/developmental-cell/fulltext/S1534-5807(24)00335-6)](https://doi.org/10.1016/j.devcel.2024.05.017).
+This repository contains the Python code used for the analysis presented in the Developmental Cell paper: **"Coordination between endoderm progression and mouse gastruloid elongation controls endodermal morphotype choice"**(https://www.cell.com/developmental-cell/fulltext/S1534-5807(24)00335-6), DOI:(https://doi.org/10.1016/j.devcel.2024.05.017).
 
 ## Overview
 
