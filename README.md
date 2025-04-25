@@ -17,4 +17,4 @@ The main steps involved are:
 7.  **Performance Visualization:** Creating histograms of the decision tree accuracy scores to understand the distribution of model performance.
 
 
-The script utilizes libraries such as `pandas` for data manipulation, `scikit-learn` for decision tree modeling and evaluation, `graphviz` for tree visualization, and `matplotlib` and `seaborn` for plotting.
+The python script utilizes libraries such as `pandas` for data manipulation, `scikit-learn` for decision tree modeling and evaluation, `graphviz` for tree visualization, and `matplotlib` and `seaborn` for plotting.
