@@ -45,7 +45,7 @@
 import os
 from pathlib import Path
 import pandas as pd
-from gastruloids_functions.functions import * # Assuming this file contains custom functions relevant to gastruloid analysis
+from gastruloids_functions import * # Assuming this file contains custom functions relevant to gastruloid analysis
 from sklearn import tree
 from sklearn.model_selection import train_test_split
 import graphviz
